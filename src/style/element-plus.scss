@@ -186,3 +186,11 @@
     background: rgb(199 201 203); /* 滑块hover颜色 */
   }
 }
+
+.el-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  width: 100%;
+  margin-top: 16px;
+}
